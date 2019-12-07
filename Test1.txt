@@ -1,0 +1,26 @@
+Sample Test
+4
+
+TFQ
+Java is an interpreting language.
+true
+
+MCQWSA
+A local variable exists which of the foolowing?
+Inside a class.
+Inside a constructor.
+Inside a method.
+Inside an Interface. 
+2
+
+MCQWMA
+A reference to an Object class can point which of the following?
+Only to objects of class Object.%false
+To objects of class String.%true
+To objects of any java class since Object is the parent class of all classes.%true
+To objects of any user-made class.%true
+To any local variable.%false
+
+QWMS
+The CPU performs all its logical and mathematical operations in ALU.
+ALU
